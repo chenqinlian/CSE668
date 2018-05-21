@@ -149,3 +149,5 @@ ax.legend()
 
 plt.show()
 
+#Question 1.2 result
+print("result for q1.2:",D[5][150][51], T[5][150][51]*360/(2*math.pi))
